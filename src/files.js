@@ -49,4 +49,4 @@ const migrateFiles = async (startIndex, filesCount) => {
     .catch(err => console.log(err));
 };
 
-migrateFiles(2, 1);
+migrateFiles(475, 50);
